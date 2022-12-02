@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Public component Component renders properly 1`] = `
+Array [
+  <header
+    className="dash-header p2"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <h1
+        className="dash-header__title"
+      >
+        Welcome to gtech
+        <span
+          className="nowrap"
+        >
+          .COM
+        </span>
+      </h1>
+    </a>
+    <button
+      className="dash-footer__button icon button"
+      onClick={[Function]}
+      title="Home"
+    >
+      login
+    </button>
+  </header>,
+  <main
+    className="public__main"
+  >
+    <p>
+      This is an introduction
+    </p>
+    <address
+      className="public__addr"
+    >
+      G Tech.COM Repairs 
+      <br />
+      23 Forest Hills Drive 
+      <br />
+      Foo City, Cape Town 12345 
+      <br />
+      <a
+        href="tell:+55555555555555"
+      >
+        (555) 555-5555
+      </a>
+    </address>
+    <br />
+    <p>
+      Owner: Kate Wilson
+    </p>
+  </main>,
+  <footer
+    className="dash-footer"
+  >
+    <button
+      className="dash-footer__button icon button"
+      onClick={[Function]}
+      title="Home"
+    >
+      login
+    </button>
+  </footer>,
+]
+`;
