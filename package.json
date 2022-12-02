@@ -46,5 +46,9 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5"
+  },
+  "engines": {
+    "node": "16.17.0",
+    "npm": "8.18.0"
   }
 }
