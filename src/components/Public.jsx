@@ -17,6 +17,7 @@ export const Public = () => {
           </p>
           <span>username: admin</span>
           <span>password: 123456</span>
+          <span>☑️ check trust this device to avoid being kicked out</span>
         </div>
         {/* employee login details, this is only here for code reviewer testing this application  */}
         <div className="login-details">
@@ -26,6 +27,7 @@ export const Public = () => {
           </p>
           <span>username: username</span>
           <span>password: 123456</span>
+          <span>☑️ check trust this device to avoid being kicked out</span>
         </div>
         <address className="public__addr">
           G Tech.COM Repairs <br />
